@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My 2048</string>
+    <string name="score_text">得分</string>
+    <string name="level_button">选择难度</string>
+    <string name="restart_button">重新开始</string>
+    <string name="levelChange_text">难度已改变，游戏重新开始</string>
+    <string name="isEasyGame">已处于简单难度</string>
+    <string name="notEasyGame">已处于正常难度</string>
+    <string name="game_begin">游戏开始</string>
+    <string name="toast_gameFailed">请您过目</string>
+    <string name="toast_gameSuccess">游戏继续</string>
+    <string name="easyLevel">简单</string>
+    <string name="normalLevel">正常</string>
+    <string name="dialog_title">你好</string>
+
+    <string name="changeLevel_dialog_message">请选择难度</string>
+    <string name="gameFailed_dialog_message">游戏结束</string>
+    <string name="gameSuccess_dialog_message">恭喜你完成2048</string>
+    <string name="restart_dialog_message">是否重新开始</string>
+
+    <string name="changeLevel_dialog_pButton">正常</string>
+    <string name="gameFailed_dialog_pButton">重新开始</string>
+    <string name="gameSuccess_dialog_pButton">再来一局</string>
+    <string name="restart_dialog_pButton">是</string>
+
+    <string name="changeLevel_dialog_nButton">简单</string>
+    <string name="gameFailed_dialog_nButton">让我看看</string>
+    <string name="gameSuccess_dialog_nButton">继续游戏</string>
+    <string name="restart_dialog_nButton">否</string>
+
+</resources>
